@@ -10,13 +10,22 @@ It's a simple Shopping Cart UI who be managed by using context and localStaorage
 # 2 How lauch the project ?
 
 - clone the repository
-  git clone "url_repository.git"
+
+```
+  git clone git@github.com:figura01/shopping-cart-ui.git
+```
 
 - Install dependencies
+
+```
   npm i
+```
 
 - Lauch server-json in a terminal
+
+```
   npm run json-server
+```
 
 - Lauch the client side
 
